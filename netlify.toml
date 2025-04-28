@@ -1,6 +1,6 @@
 [build]
   command = "npm install --legacy-peer-deps && expo export:web"
-  publish = "web-build"
+  publish = "web-build" 
 
 [dev]
   command = "expo start --web"
